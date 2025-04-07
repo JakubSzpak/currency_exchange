@@ -1,7 +1,7 @@
 package org.exchange;
 
 public enum ApiConfig {
-    API_KEY("690c7c520dbc41d59376f08e33ac5764");
+    API_KEY("YOUR_API_KEY");
 
     private final String apiKey;
 
